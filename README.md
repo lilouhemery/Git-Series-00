@@ -16,3 +16,6 @@ R m’intéresse parce qu’il est très utilisé en statistiques et en recherch
 Git me permet de garder une trace propre de mon travail et d’éviter de perdre mes fichiers.  
 Ces outils vont m’aider dans mon master et dans mes futurs projets d’analyse du mouvement humain.  
 Je veux devenir plus autonome, plus organisée et plus professionnelle dans ma façon de coder.
+## Une image locale
+
+![Mon graphique](IMG_20200630_104651_BURST005.jpg)
