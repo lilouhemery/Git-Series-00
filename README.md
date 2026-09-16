@@ -8,3 +8,11 @@ This work is part of my training in human movement analysis.
 
 ## Une image pour illustrer
 ![image git](https://cdn-icons-png.flaticon.com/512/2111/2111432.png) 
+
+## Mes motivations pour apprendre Python, R et Git
+
+J’ai envie d’apprendre Python pour analyser des données de manière claire et efficace.  
+R m’intéresse parce qu’il est très utilisé en statistiques et en recherche scientifique.  
+Git me permet de garder une trace propre de mon travail et d’éviter de perdre mes fichiers.  
+Ces outils vont m’aider dans mon master et dans mes futurs projets d’analyse du mouvement humain.  
+Je veux devenir plus autonome, plus organisée et plus professionnelle dans ma façon de coder.
