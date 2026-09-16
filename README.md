@@ -7,4 +7,4 @@ I can’t wait to learn more so I can better organize my master’s projects and
 This work is part of my training in human movement analysis.
 
 ## Une image pour illustrer
-![image git]([[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0sPleuuSU5QrLH4jgKx2WJXKLpZHdGVtfOyvo0iBn5g&s=10](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfeJE5wju9zZiwN-M1RBAxgzAldmURMNrmLkuxvJPFIA&s=10)](https://cdn-icons-png.flaticon.com/512/2111/2111432.png)) 
+![image git](https://cdn-icons-png.flaticon.com/512/2111/2111432.png) 
