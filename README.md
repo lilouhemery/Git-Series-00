@@ -18,4 +18,4 @@ Ces outils vont m’aider dans mon master et dans mes futurs projets d’analyse
 Je veux devenir plus autonome, plus organisée et plus professionnelle dans ma façon de coder.
 ## Une image local
 
-![alt text](image.jpg)
+![image](image.jpg)
