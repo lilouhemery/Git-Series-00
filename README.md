@@ -19,5 +19,6 @@ Je veux devenir plus autonome, plus organisée et plus professionnelle dans ma f
 
 ## Une image local
 
-![image](image/WhatsApp Image 2026-09-16 at 14.29.42.jpeg)
+![image](image/paysage.jpeg)
+
 
